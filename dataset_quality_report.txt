@@ -1,0 +1,24 @@
+
+===== AI TRAINING DATASET QUALITY REPORT =====
+
+Total records: 5
+
+Missing values:
+image_id    0
+label       0
+category    0
+
+Duplicate rows: 0
+Duplicate image IDs: 0
+
+Category distribution:
+category
+animal     3
+vehicle    2
+
+Annotation consistency:
+Incorrect or unknown combinations: 0
+
+OVERALL STATUS: PASS
+
+===== END OF REPORT =====
